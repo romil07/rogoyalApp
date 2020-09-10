@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "rogoyalApp", "rogoyalApp\rogoyalApp.vbproj", "{CD9313A0-E456-4716-9B91-EF6FF5BA2589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9313A0-E456-4716-9B91-EF6FF5BA2589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9313A0-E456-4716-9B91-EF6FF5BA2589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9313A0-E456-4716-9B91-EF6FF5BA2589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9313A0-E456-4716-9B91-EF6FF5BA2589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEAF6DA-B4C6-4385-889E-CCB130D1226E}
+	EndGlobalSection
+EndGlobal
